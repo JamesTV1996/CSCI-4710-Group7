@@ -1,0 +1,47 @@
+id,WhatCountryDoYouLiveIn,HowOldAreYou,WhatIsYourGender,ToWhatExtentDoYouFeelFEARDueToTheCoronavirus,ToWhatExtentDoYouFeelANXIOUSDueToTheCoronavirus,ToWhatExtentDoYouFeelANGRYDueToTheCoronavirus,ToWhatExtentDoYouFeelHAPPYDueToTheCoronavirus,ToWhatExtentDoYouFeelSADDueToTheCoronavirus,WhichEmotionisHavingTheBiggestImpactOnYou,WhatMakesYouFeelThatWay,WhatBringsYouTheMostMeaningDuringTheCoronavirusOutbreak,WhatIsYourOccupation
+1,USA,70,Male,2,2,1,2,2,""anticipation" of whats going to happen next","Lot's of predictions from differnet resources",Family,Psychologist
+9,USA,39,Male,2,2,4,1,2,Anger,"Impacts on day-to-day life",Exercising,"Software Engineer"
+10,USA,78,Male,5,5,5,1,1,Anger,"National leadership incompetence",Family,"Executive - retired"
+24,UK,57,Male,3,3,3,1,5,"Annoyed, frustrated","Being on lockdown, the idiots on social media and the idiots still gathering in groups out on the streets.",Pandemic,Carer
+25,USA,48,Male,3,4,1,3,2,Anxiety,"worried about family getting the virus and not enough hospital capacity",Family,-1
+29,Romania,65,Male,2,2,1,1,1,Anxiety,"There it is not yet a vaccine against Covid-19",Family,-1
+32,USA,44,Male,4,4,2,1,5,Anxiety,"There is no way of knowing what or who to avoid making contact with.",Family,-1
+36,USA,46,Male,2,3,2,1,2,Anxiety,Uncertainty,Family,"Educational Leadership "
+37,"USA ",52,Male,4,4,4,1,4,Anxiety,"I can't see the measures of our administration  effective ",Family,"Clinical research associate "
+39,"Hong Kong",46,Male,2,4,3,1,4,Anxiety,"I feel trapped. I almost want to go out and catch the virus early, before the hospitals are overwhelmed.",Family,Manager
+43,Romania,40,Male,3,5,2,1,3,Anxiety,"Not knowing how the situation will evolve. Losing personal liberties.",Work,"Executive Director of an NGO"
+48,USA,70,Male,2,3,1,1,3,Anxiety,"That this is an open-ended situation that has no clear and predictable end.",Family,"System administrator"
+71,USA,53,Male,2,2,1,1,2,Anxiety,"I worry about my family members",Family,Psychiatrist
+83,Canada,53,Male,4,4,3,3,4,Anxiety,"More uncertainty than I have ever encountered before in my life.",Family,"TV/Film production"
+89,France,54,Male,3,4,2,3,4,Anxiety,"dark perspectire for the near future",Family,Educator
+91,USA,72,Male,2,3,3,3,4,Anxiety,"Never knowing what to do",Family,Retired
+93,UK,68,Male,3,5,4,2,4,Anxiety,"There is so much uncertainty is all aspects of life:  personal health, personal survival, business income (mainly "lack of it"), impossibility of getting together and sharing meals with friends, no idea how long the UK Lockdown must go on for, etc.  Even though within 2 years we should be over it, and despite the damage, things will bounce back with a rebound.  Let us be motivated to live EVERY day to the full - right now, as well as when we are totally free to socialise again.  What joy can we bring to others, today, tomorrow and every day thereafter?  Starting NOW!     ",Family,"Maze Designer"
+94,USA,75,Male,3,4,1,3,5,Anxiety,"difficulties in navigating daily responsibilities",Family,"Self employed writer "
+101,USA,71,Male,1,3,1,1,2,Anxiety,"Uncertainty of contracting it; and its effects on me, and others I love.","My faith in God","Vocational evaluator"
+103,USA,69,Male,4,3,2,1,4,Anxiety,"Too much conflicting information between the politicians and the medical professionals/scientists",Family,Professor
+111,USA,62,Male,4,4,2,1,2,Anxiety,"Worried about family",Family,"Railroad track inspector"
+112,USA,43,Male,5,5,3,1,5,Anxiety,"The possibility that loved ones, or I, may contract a serious illness that our country is ill-equipped to manage.",Family,Teacher
+113,USA,68,Male,4,4,1,1,5,Anxiety,"I could die if I get it",Family,Retired
+117,USA,74,Male,2,4,4,3,3,Anxiety,"Uncertainty about what will happen","family AND friends AND exercising","Copy editor/musician"
+125,USA,74,Male,4,4,1,1,4,Anxiety,"being in a high risk group",Family,Retired
+150,Switzerland,36,Male,3,4,3,2,2,Anxiety,Uncertainty,Family,"Project Lead"
+159,USA,42,Male,3,3,3,2,2,Anxiety,"Financial security and planning for the future of my family.",Family,"Relationship Manager"
+161,UK,46,Male,4,5,4,3,3,Anxiety,"The uncertainty - of social interactions, but also (as a self-employed person working in theatre) of my professional future. ",Family,"Composer & teacher"
+162,Canada,48,Male,4,4,1,2,4,Anxiety,"Not knowing what might happen. The fear of dying alone and unable to breathe.","Working on art and music.","Artist & Educator"
+165,USA,79,Male,4,4,5,1,4,Anxiety,Covid,Reading,Retired
+168,"USA ",67,Male,3,4,3,1,5,Anxiety,"Not knowing 1) how long the contagion is going to last 2) uncertainty about my kids and grandkids health and economic well being","There is no meaning . Do you mean pleasure or contentment? I would say family and reading ",Retired
+176,USA,68,Male,3,2,3,1,3,Anxiety,"The stupidity of the average citizen to take the virus seriously ",Family,"Retired "
+180,Rwanda,38,Male,4,4,4,1,4,Anxiety,"How people suffer from the consequences of this virus",Family,"Catholic Priest "
+181,USA,79,Male,3,3,2,1,3,Anxiety,Uncertainty,Family,"Retired Business Executive"
+205,Switzerland,36,Male,3,3,1,3,2,Balanced,"I've just made peace with the situation and trying to find a rhythm in the new conditions ",Family,WEF
+213,"USA ",40,Male,5,3,2,1,2,Fear,"Not being able to access a trustful source of information about it",Family,-1
+216,"USA ",40,Male,4,3,2,1,4,Fear,"Insecurity ","Surfing the web",Student
+230,USA,86,Male,4,3,2,1,4,Fear,"I am in high risk group because of age and several health conditions.","Contacting others by the telephone, facebook and  e-mails","Retired Physician"
+250,USA,55,Male,3,4,1,2,4,Frustration,"I'm Helpless to do anything about the situation and cooped up inside all day.",Family,Manager
+261,"Canada ",54,Male,3,3,1,5,3,Happiness,"I am on the road constantly. I have literally lived out of a suitcase since 2015. I am exhausted and need a break. I’m also so focused on touring old work that I didn’t have time to make new work. I was thinking of quitting but it’s the only thing I’ve ever done. This is forcing my hand perhaps. I can survive without a problem for a while. I’m sad that others are suffering but I haven’t been this anxiety free in years. It’s great you’re doing this. I wrote a book about how children and young people should be taken more seriously. It’s called Haircuts by Children and Other Evidence for a New Social Contract. Send me a message and I’ll email you a PDF darren@mammalian.ca my name is Darren O’Donnell ","Meditation ","Theatre director "
+302,USA,70,Male,1,1,1,1,1,"In deference ","Worry about what you can con control","Don’t care as long as I can take a nap after linch","Grumpy old man"
+338,"New Zealand",47,Male,3,2,3,1,3,Sadness,"Ongoing effects will have huge consequences beyond the illness. Sadness lasts, anger doesn’t ",Family,"Principal "
+351,Germany,71,Male,2,2,2,1,4,Sadness,"All the people who died and all the people who are alone with nobody who cares",Family,"Senior Professor"
+406,"Palestine ",45,Male,3,3,4,1,3,Stress,"Uncertainty, lack of clarity ",Family,"Executive director "
+407,spain,43,Male,1,1,1,1,2,Surveillance,"We have a risk that we need control it","Being alone",Lawyer
+412,USA,79,Male,5,4,1,3,4,Worry,"Worry is an e-motion (energy in motion) which inhabits me and rears it’s head often in my life.  It is very active at this time.  During my meditations I beginning to see how worry is connected to other e-motions. ",Friends,"Retired "

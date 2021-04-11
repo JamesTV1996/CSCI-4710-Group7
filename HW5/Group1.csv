@@ -1,0 +1,56 @@
+id,WhatCountryDoYouLiveIn,HowOldAreYou,WhatIsYourGender,ToWhatExtentDoYouFeelFEARDueToTheCoronavirus,ToWhatExtentDoYouFeelANXIOUSDueToTheCoronavirus,ToWhatExtentDoYouFeelANGRYDueToTheCoronavirus,ToWhatExtentDoYouFeelHAPPYDueToTheCoronavirus,ToWhatExtentDoYouFeelSADDueToTheCoronavirus,WhichEmotionisHavingTheBiggestImpactOnYou,WhatMakesYouFeelThatWay,WhatBringsYouTheMostMeaningDuringTheCoronavirusOutbreak,WhatIsYourOccupation
+4,USA,11,Male,2,1,5,1,3,Anger,"No sports ",Family,Student
+5,USA,28,Male,4,3,4,1,4,Anger,"a system that cares about profit more than general wellbeing","trying to help",reporter
+8,USA,22,Male,3,4,5,2,1,Anger,"Inaction of the people and government",Friends,Janitor
+17,Romania,17,Male,2,4,5,3,1,Anger,"The fact that I can't be active","S? fii singur",Student
+22,Romania,14,Male,1,2,5,3,4,Anger,"That I can't go fishing and can't meet up with friends",Family,Student
+40,Romania,12,Male,2,3,2,3,3,Anxiety,"the unknown","my personal projects",Student
+53,"USA ",20,Male,2,4,4,2,5,Anxiety,"I feel anxious because of people less well off than I dealing with economic/health uncertainties during this time. ",Friends,"Writing tutor "
+56,USA,33,Male,3,4,4,1,2,Anxiety,"Unknown impacts on my career and societal changes. ",Family,Nurse
+61,USA,28,Male,2,2,1,1,1,Anxiety,"I feel anxious because COVID-19 and the related restrictions are disrupting my daily routine as well as my ongoing residential move.",Family,"Civil Engineer"
+62,USA,32,Male,2,4,2,1,2,Anxiety,"Uncertainity, concern for health of family",Family,"Clinical Psychologist"
+63,USA,30,Male,2,4,1,1,3,Anxiety,"Safety of loved ones","Being alone",Student
+70,USA,19,Male,5,5,3,1,3,Anxiety,"I don’t know. Sorry. ","Friends and Family",Unemployed
+77,USA,19,Male,5,5,3,1,3,Anxiety,"I don’t know. Sorry. ","Friends and Family",Unemployed
+78,USA,28,Male,3,5,3,1,2,Anxiety,"Uncertainty ",Family,-1
+80,USA,23,Male,3,4,3,2,3,Anxiety,"The fact that USA is not doing nearly enough to stop the virus here. We need some temporary authoritarianism (not Trump though) ",Reading,"Graduate Student"
+81,USA,22,Male,3,4,1,1,3,Anxiety,"Not knowing who or what I interact with could transmit the virus to me and not knowing for sure whether or not I have it",Reading,"Graduate student"
+147,USA,25,Male,3,4,2,2,2,Anxiety,"Uncertainty about the future",Family,Engineer
+154,UK,33,Male,3,3,2,2,4,Anxiety,"Not knowing about the immediate future. no planning. too much work.",Friends,Economist
+157,Switzerland,32,Male,4,4,3,1,2,Anxiety,"Fear of lost income","Being in nature - hiking and mountain biking","Community Lead, Asia Pacific (WEF)"
+185,Romania,7,Male,1,2,2,4,1,Anxiety,"Optimism and search for new things",Family,Student
+191,Romania,18,Male,2,3,2,3,3,Anxiety,"Because of this pandemic",Family,Student
+203,Israel,34,Male,2,3,1,2,2,Appreciation,"The realization of much we have and how basic are the things that we need",Family,"Director of NGO"
+204,Switzerland,33,Male,3,4,1,3,2,"At first anxiety but now feeling more resigned and watching less news so contentment and resignation of some sort. ","Focus on mental health","My partner and contact with friends and family ","Environment Project Manager, World Economic Fourm"
+209,USA,35,Male,1,2,1,3,2,Curiosity,"Rapid change",work,"NGO employee"
+215,"USA ",17,Male,4,3,4,1,4,Fear,"The feeling that my loved ones may get sick ",Family,"Student "
+222,Romania,11,Male,1,1,1,1,4,Fear,"I'm worried because i'm fraid my family won't have this virus ","Surfing the web",Student
+225,USA,23,Male,4,4,2,1,4,Fear,"I am worried about my work causing me to infect those around me. I'm less afraid of catching it myself, as much as I am of spreading it to others without knowing it.",Friends,"Mental Health Counselor"
+235,Canada,23,Male,4,4,2,3,4,Fear,"State of the future, family's collective health, ","Making the most of the time by learning / growing","Graduate / Engineer"
+243,Rwanda,34,Male,5,5,4,1,4,Fear,"Persnal Economic issues and Stay home",Family,"Driver "
+246,Romania,17,Male,4,1,2,2,2,Fear,School,Prietenii,Student
+247,Romania,18,Male,5,4,4,3,4,Fear,Pandemic,Family,Student
+256,USA,12,Male,4,3,1,3,1,Happiness,"Having free time and sleeping",Family,Student
+258,Romania,11,Male,3,1,4,1,5,Happiness,"Very good!",Family,Student
+271,Romania,14,Male,1,1,1,5,1,Happiness,Faily,Family,Student
+272,Romania,7,Male,3,3,2,3,5,Happiness,"I am happy for everything",Family,Student
+273,Romania,14,Male,2,1,3,3,3,Happiness,"People that are beside me",Family,Student
+284,Romania,9,Male,1,1,1,4,1,Happiness,"Family activities",Family,Student
+295,Romania,16,Male,2,3,1,3,1,Happiness,Family,Family,Student
+297,Romania,15,Male,2,2,4,3,3,Happiness,God,Family,Student
+306,Switzerland,29,Male,1,1,1,3,3,-1,"Not a person that generally feels a lot of strong emotions.","Chatting with colleagues on Teams throughout the day.","Data Scientist"
+310,Romania,15,Male,2,4,1,2,1,Other,"8th grade exam",Other,Student
+313,Romania,16,Male,3,2,4,2,4,Other,"Time wasted",Family,Student
+316,Romania,16,Male,2,2,2,3,1,Other,"Optimism and search for new things",Family,Student
+326,"Ireland l",26,Male,2,2,2,3,3,Powerlessness,"Stuck at home, no control over my life",Reading,Teacher
+330,USA,-1,Male,1,2,1,1,4,Sadness,"Seeing the global impact the virus has on people's health, their income and emotional wellbeing. It has created a great deal of uncertainty for individuals around the world.",Friends,-1
+332,USA,30,Male,2,3,1,1,5,Sadness,"I feel sad for the lives lost and soon to be lost",Reading,-1
+343,USA,23,Male,5,4,2,1,5,Sadness,"I am worried the health and wellbeing of my more vulnerable loved ones","Taking it day by day with the support of my loved ones, and trying to keep an optimistic long term perspective","Mental Health Care"
+369,Germany,20,Male,3,4,2,1,5,Sadness,"People dying, being far away from friends and family",Family,Student
+392,Romania,14,Male,2,3,4,1,5,Sadness,"Less time to spend with people I care about",Family,Student
+394,Romania,17,Male,3,2,4,1,4,Sadness,"That all my plans were cancelled by this pandemic",Family,Student
+397,Romania,18,Male,2,3,4,2,4,Sadness,"Staying in house 24/24",Prietenii,Student
+400,Romania,18,Male,2,3,1,2,5,Sadness,"Lack of social connections","S? fii singur",Student
+404,Romania,18,Male,1,4,4,2,5,Sadness,"To listen to music",Family,Student
+405,Romania,15,Male,3,3,2,4,2,Sadness,"I can't think of an answer",Family,Student
+411,Canada,23,Male,4,4,3,2,3,"Uncertainty ","It is still to early to understand the degree in which this will impact the world.",Friends,Unemployed
