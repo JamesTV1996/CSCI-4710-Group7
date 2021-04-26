@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Pirate Lending Homepage">
+	 <meta name="keywords" content="Web Design, IT Professional">
+  	<meta name="author" content="James Vincent">
+	<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" />
+    <link rel="stylesheet" href="./css/default.css">
+	<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+	<title>  Pirate Lending | Loan Estimator</title>
+  </head>
+  <body style="background-image: url('./img/fountain1.jpg'); background-size: cover;">
+    <header>
+      <div class="container" >
+        <div id="branding">
+          <h1><span class="highlight">Pirate Lending </span></h1> 
+        </div>
+        <nav>
+		
+          <ul>
+            <li><a href="index.php">Homepage</a></li>
+            <li><a href="members.php">For Members</a></li>
+			<li class="current"><a href="loans.html">Loan Estimator</a></li>
+			<li><a href="about_us.html">About</a></li>
+            
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="newsletter" >
+      <div class="Interest Calculator" style="background-color: #000; background-size: cover;">
+  <h1 class="text-center display-4">Interest Calculator</h1>
+  <hr>
+
+  <div class="container" id="simple-interest" style="background-color: #592A8A; border-radius:10px;">
+    <h3><center>Simple Interest</h3>
+    <form id="simpleForm">
+      <div class="form-group">
+        <label for="principalSimple"><center>Principal</label>
+        <input type="text" class="form-control" id="principalSimple" placeholder="Enter amount without dollar sign">
+      </div>
+      <div class="form-group">
+        <label for="interestSimple"><center>Interest Rate</label>
+        <input type="text" class="form-control" id="interestSimple" placeholder="5%">
+      </div>
+      <div class="form-group">
+        <label for="termSimple"><center>Term of Loan</label>
+        <input type="text" class="form-control" id="termSimple" placeholder="2 (in terms of years)">
+      </div>
+      <button type="submit" class="btn btn-primary" id="btnSimple" onclick="simpleInterest()">Submit</button>
+    </form>
+    <div>
+      <p class="lead mt-3" id="simple-01"></p>
+      <p class="lead mb-3" id="simple-02"></p>
+    </div>
+    <div class="text-center">
+      <input class="btn btn-secondary btn-lg" type="button" value="Reset" onClick="document.getElementById('simpleForm').reset()">
+    </div>
+  </div>
+  <br>
+  <hr>
+  <br>
+
+
+  <div class="container" div="compound-interest" style="background-color: #592A8A; border-radius:10px;">
+    <h3><center>Compound Interest</h3>
+    <form id="compoundForm">
+      <div class="form-group">
+        <label for="principalCompound"><center>Principal</label>
+        <input type="text" class="form-control" id="principalCompound" placeholder="Enter amount without dollar sign">
+      </div>
+      <div class="form-group">
+        <label for="interestCompound"><center>Interest Rate</label>
+        <input type="text" class="form-control" id="interestCompound" placeholder="5%">
+      </div>
+      <div class="form-group">
+        <label for="timesCompounded"><center>Times Compounded per Year</label>
+        <input type="text" class="form-control" id="timesCompounded" placeholder="12(once every month)">
+      </div>
+      <div class="form-group">
+        <label for="termCompound"><center>Term of Loan</label>
+        <input type="text" class="form-control" id="termCompound" placeholder="2 (in terms of years)">
+      </div>
+      <button type="submit" class="btn btn-primary" id="btnCompound" onclick="compoundInterest()">Submit</button>
+    </form>
+    <div>
+      <p class="lead mt-3" id="compound-01"></p>
+      <p class="lead mb-3" id="compound-02"></p>
+    </div>
+    <div class="text-center">
+      <input class="btn btn-secondary btn-lg" type="button" value="Reset" onClick="document.getElementById('compoundForm').reset()">
+    </div>
+  </div>
+</div>
+
+<script>
+	var principal = 0;
+	var interestRate = 0;
+	var timesCompounded = 0;
+	var termOfLoan = 0;
+	var amount = 0;
+
+	function simpleInterest() 
+	{
+  		event.preventDefault();
+  		var principal = parseFloat(document.getElementById("principalSimple").value);
+  		var interestRate = parseFloat(document.getElementById("interestSimple").value);
+  		interestRate = interestRate / 100;
+  		var termOfLoan = parseFloat(document.getElementById("termSimple").value);
+  		var simpleInt = principal * interestRate * termOfLoan;
+  		var amount = (principal + simpleInt).toFixed(2);
+  		document.getElementById("simple-01").innerHTML = "Interest: $" + simpleInt.toFixed(2);
+  		document.getElementById("simple-02").innerHTML = "Total plus interest: $" + amount;
+	}
+
+	function compoundInterest() 
+	{
+  		event.preventDefault();
+  		var principal = parseFloat(document.getElementById("principalCompound").value);
+  		var interestRate = parseFloat(document.getElementById("interestCompound").value);
+  		interestRate = interestRate / 100;
+  		var timesCompounded = parseFloat(document.getElementById("timesCompounded").value);
+  		var termOfLoan = parseFloat(document.getElementById("termCompound").value);
+  		var a = interestRate / timesCompounded;
+  		var b = 1 + a;
+ 	 	var c = timesCompounded * termOfLoan;
+ 		var d = Math.pow(b, c);
+  		var amount = (principal * d).toFixed(2);
+  		document.getElementById("compound-01").innerHTML = "Interest: $" + (amount - principal).toFixed(2);
+  		document.getElementById("compound-02").innerHTML = "Total plus interest: $" + amount;
+	}
+</script>
+    </section>
+
+       <footer>
+      <p>CSCI 4710/6710 - Group 7 - Final Project | Copyright &copy; 2021</p>
+    </footer>
+  </body>
+</html>
+
